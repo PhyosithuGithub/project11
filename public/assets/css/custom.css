@@ -1,0 +1,9 @@
+.pagination>li{
+    padding: 5px 15px;
+    background: #dddddd;
+    color: #000000;
+    margin-right: 2px;
+}
+#edit_but{
+    cursor: pointer;
+}
